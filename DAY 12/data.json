@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Lokesh" ,
+        "id" : 644 ,
+        "clg" : "CSE"
+    },
+    {
+        "name" : "Harish" ,
+        "id" : 719 ,
+        "clg" : "AIML"
+    },
+    {
+        "name" : "Karthik" ,
+        "id" : 636 ,
+        "clg" : "IT"
+    },
+    {
+        "name" : "Varun" ,
+        "id" : 638 ,
+        "clg" : "IOT"
+    }
+]
